@@ -3,7 +3,7 @@ This document contains essential Git commands categorized by topic, along with b
 
 # 1. Setup & Configuration
 
-**Set your Git username**:
+-**Set your Git username**:
 
 `git config --global user.name "iam-madhukar"`
 
