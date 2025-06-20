@@ -2,12 +2,14 @@
 This document contains essential Git commands categorized by topic, along with brief explanations.
 
 # 1. Setup & Configuration
-Set your Git username:
-git config --global user.name "iam-madhukar"
+** Set your Git username:
+`git config --global user.name "iam-madhukar"`
+
 Sets your global Git username used in commits.
 
 Set your Git email:
-git config --global user.email "madhukar1ramesh@gmail.com"
+`git config --global user.email "madhukar1ramesh@gmail.com"`
+
 Sets your global Git email used in commits.
 
 # 2. Initialize Repository
