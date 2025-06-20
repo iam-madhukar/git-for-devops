@@ -3,13 +3,13 @@ This document contains essential Git commands categorized by topic, along with b
 
 # 1. Setup & Configuration
 
-~**Set your Git username**:
+**Set your Git username**:
 
 `git config --global user.name "iam-madhukar"`
 
 Sets your global Git username used in commits.
 
-~ **Set your Git email**:
+**Set your Git email**:
 
 `git config --global user.email "madhukar1ramesh@gmail.com"`
 
@@ -17,19 +17,19 @@ Sets your global Git email used in commits.
 
 # 2. Initialize Repository
 
-~ **Create a new project folder**:
+**Create a new project folder**:
 
 `mkdir git-for-devops`
 
 Creates a directory named `git-for-devops`.
 
-~ **Navigate into the project directory**:
+**Navigate into the project directory**:
 
 `cd git-for-devops`
 
 Changes current directory to `git-for-devops`.
 
-~**Initialize the Git repository**:
+**Initialize the Git repository**:
 
 `git init`
 
@@ -37,7 +37,7 @@ Starts a new Git repository in the current folder.
 
 # 3. File Operations
 
-~**Create new files**:
+**Create new files**:
 
 `touch python.txt java.txt`
 
@@ -47,13 +47,13 @@ Creates two empty files.
 
 Creates an empty file named `go.txt`.
 
-~**Edit a file**:
+**Edit a file**:
 
 `vim java.txt`
 
 Opens `java.txt` in Vim for editing.
 
-~**View contents and location**:
+**View contents and location**:
 
 `ls`
 
@@ -72,7 +72,7 @@ Displays the state of the working directory and staging area.
 
 # 5. Staging and Committing Files
 
-~**Add files to staging**:
+**Add files to staging**:
 
 `git add python.txt java.txt`
 
