@@ -9,7 +9,7 @@ This document contains essential Git commands categorized by topic, along with b
 
 Sets your global Git username used in commits.
 
-~**Set your Git email**:
+~ **Set your Git email**:
 
 `git config --global user.email "madhukar1ramesh@gmail.com"`
 
@@ -17,13 +17,13 @@ Sets your global Git email used in commits.
 
 # 2. Initialize Repository
 
-~**Create a new project folder**:
+~ **Create a new project folder**:
 
 `mkdir git-for-devops`
 
 Creates a directory named `git-for-devops`.
 
-~**Navigate into the project directory**:
+~ **Navigate into the project directory**:
 
 `cd git-for-devops`
 
