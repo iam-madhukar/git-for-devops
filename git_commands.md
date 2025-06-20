@@ -181,4 +181,4 @@ Moves up one directory level.
 
 `git diff` – Shows file differences not yet staged.
 
-git stash – Temporarily saves changes not yet committed.
+`git stash` – Temporarily saves changes not yet committed.
