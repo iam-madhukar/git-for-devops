@@ -4,4 +4,4 @@
 - Commands
 - Values
 - Examples
-- repositories
+- Repo
